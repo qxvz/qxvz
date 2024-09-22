@@ -1,7 +1,8 @@
 # About me 📖
 My main language is Python, and I like making multi-tools, reconnaissance tools and more  
 I am currently interested in embedded systems development on microcontroller boards such as ESP32, Raspberry Pi 0, Raspberry Pi 4, Raspberry Pi Pico, Arduino.
-📖
+
+
 All of my projects will be linked here and be open-source and free for anyone to use. I do not profit off any of them.
 
 
