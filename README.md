@@ -1,5 +1,5 @@
-# About l33tlord
-Experience with embedded systems development on microcontroller boards such as ESP32, Raspberry Pi 0, Raspberry Pi 4, Raspberry Pi Pico, Arduino.
+# About me
+Experience with embedded systems development on microcontroller boards such as ESP32, Raspberry Pi 0, Raspberry Pi 4, Raspberry Pi Pico, Arduino, ESP8266.
 
 ### Languages
 
