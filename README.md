@@ -6,5 +6,7 @@ Most experience in Python, currently moving onto C++
 
 <br />
 
+![image](https://github.com/user-attachments/assets/122669ee-5554-4524-93bf-3c34d68b6ee3)
+
 
 
