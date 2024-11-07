@@ -9,7 +9,7 @@ Experience with embedded systems development on microcontroller boards such as E
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br />
 
-#![image](https://github.com/user-attachments/assets/4e8d4218-011b-474c-8168-40d5fd55478b)
+![image](https://github.com/user-attachments/assets/4e8d4218-011b-474c-8168-40d5fd55478b)
 
 
 
