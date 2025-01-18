@@ -3,7 +3,7 @@
     <img src="https://github.com/user-attachments/assets/41edba29-61c0-4dee-ab90-44708c1d87b0" alt="qxvz">
   </div>
   <div style="margin-left: 10px;">
-    <p>Your text goes here. Add any description or context alongside the GIF.</p>
+    <p>5 years experience with Lua and Python.</p>
   </div>
 </div>
 
