@@ -1,13 +1,11 @@
-<table>
-  <tr>
-    <td>
-      ![qxvz](https://github.com/user-attachments/assets/41edba29-61c0-4dee-ab90-44708c1d87b0)
-    </td>
-    <td>
-      <p>Your text goes here. You can write anything to describe your GIF or provide related information. It will be neatly aligned next to your GIF.</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://github.com/user-attachments/assets/41edba29-61c0-4dee-ab90-44708c1d87b0" alt="qxvz">
+  </div>
+  <div style="margin-left: 10px;">
+    <p>Your text goes here. Add any description or context alongside the GIF.</p>
+  </div>
+</div>
 
 <hr>
 
