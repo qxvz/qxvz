@@ -8,7 +8,6 @@
 </p>
 
 <br>
-<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qxvz&theme=tokyo-night" />
 </p>
