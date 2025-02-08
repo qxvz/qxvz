@@ -10,5 +10,6 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qxvz&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qxvz&theme=tokyo-night" />
+</p>
 </p>
