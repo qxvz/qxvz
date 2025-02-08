@@ -7,12 +7,15 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
----
+<br>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qxvz&theme=tokyo-night" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qxvz&show_icons=true&theme=tokyonight" />
+  <br>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=qxvz&theme=tokyonight" />
 </p>
