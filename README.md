@@ -6,3 +6,8 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
+
+<br>
+
+[![Discord](https://img.shields.io/discord/1316488857260261489?label=Discord&logo=discord)](https://discord.gg/cVwK6qBufq)
+
