@@ -6,9 +6,3 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qxvz&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-</p>
